@@ -3,4 +3,4 @@ Tech-Talk is a blog website that shares easy-to-read and informative posts about
 
 Website Link:
 
-- (https://beneficial-wave.surge.sh)
+- (http://maniacal-hook.surge.sh/)
